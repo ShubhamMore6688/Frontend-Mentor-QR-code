@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 100px;
+    background-color:  hsl(220, 15%, 55%);
+    text-align: center;
+   
+}
+
+.sub-div{
+    
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    margin: 0 auto 0 auto;
+    width: 300px;
+    height: 450px;
+    border-radius: 20px;
+
+}
+
+.image{
+    position: relative;
+    display: inline-block;
+    margin: 0 auto 0 auto;
+    width: 300px;
+    height: 377px;
+
+}
+
+.image img{
+    position: absolute;
+    height: 70%;
+    width: 90%;
+    border-radius: 20px;
+    left: 13px;
+    top: 13px;
+}
+
+.info{
+    position: relative;
+    width: 88%;
+    top: -99px;
+    margin: 20px 20px;
+    text-align: center;
+}
+
